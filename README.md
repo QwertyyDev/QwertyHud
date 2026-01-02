@@ -1,6 +1,7 @@
 # Qwerty Hud
 
-🇹🇷 Qwerty Hud, kendi çapımda geliştirdiğim, **basit ve hafif** bir Minecraft HUD modudur.  
+### 🇹🇷
+Qwerty Hud, kendi çapımda geliştirdiğim, **basit ve hafif** bir Minecraft HUD modudur.  
 Amacım büyük veya karmaşık bir şey yapmak değil, sadece oyunda işime yarayan
 bilgileri ekranda düzenli bir şekilde göstermektir.
 
@@ -30,8 +31,8 @@ Geliştirme sürecinde temiz kod ve performans ön planda tutulmuştur.
 Bu proje **MIT Lisansı** ile paylaşılmıştır.  
 İsteyen herkes projeyi özgürce kullanabilir, kopyalayabilir ve düzenleyebilir.
 
-
-🇪🇳 Qwerty Hud is a **simple and lightweight** Minecraft HUD mod that I made on my own.
+### 🇪🇳
+Qwerty Hud is a **simple and lightweight** Minecraft HUD mod that I made on my own.
 I didn’t aim to create something big or complex — I just wanted to display
 useful information on the screen in a clean way.
 
