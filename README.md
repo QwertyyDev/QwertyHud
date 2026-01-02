@@ -2,7 +2,7 @@
 
 🇹🇷 Qwerty Hud, kendi çapımda geliştirdiğim, **basit ve hafif** bir Minecraft HUD modudur.  
 Amacım büyük veya karmaşık bir şey yapmak değil, sadece oyunda işime yarayan
-bilgileri ekranda düzenli bir şekilde göstermekti.
+bilgileri ekranda düzenli bir şekilde göstermektir.
 
 Mod tamamen **client-side** çalışır ve oynanışı etkilemez.
 
